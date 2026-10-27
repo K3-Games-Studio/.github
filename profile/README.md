@@ -37,10 +37,23 @@ O código é aberto: [K3-Games-Studio/k3-puzzles](https://github.com/K3-Games-St
 | <img src="https://k3gamesstudio.com/assets/kaiju.jpg" width="160"> | **Kaiju Siege**: tower defense 3D contra monstros gigantes | [site](https://k3gamesstudio.com/kaiju-siege/) |
 | <img src="https://k3gamesstudio.com/assets/dino.png" width="160"> | **Dino Breakout**: resgate de civis numa invasão de dinossauros | [site](https://k3gamesstudio.com/dino-breakout/) |
 
+## 💡 Quem idealizou
+
+<table>
+  <tr>
+    <td width="120" align="center"><a href="https://github.com/kelvinbiffi"><img src="https://github.com/kelvinbiffi.png?size=200" width="100" alt="Kelvin Biffi"></a></td>
+    <td>
+      <b><a href="https://github.com/kelvinbiffi">Kelvin Biffi</a></b>, idealizador do estúdio.<br>
+      O sonho dele sempre foi trabalhar com jogos. Hoje ele realiza esse sonho na K3: cada jogo daqui nasce da vontade de fazer pra outras pessoas o que os jogos sempre fizeram por ele.<br>
+      <sub><a href="https://github.com/kelvinbiffi">GitHub</a> · <a href="https://kelvinbiffi.com">kelvinbiffi.com</a></sub>
+    </td>
+  </tr>
+</table>
+
 ## 🛠️ Como a gente faz
 
 Um estúdio pequeno que ama jogos e usa IA como parte do time: código em Phaser, Babylon.js e Capacitor; arte, trilha (Suno) e efeitos (ElevenLabs) gerados e lapidados com IA; QA automatizado jogando de verdade no navegador e no Android.
 
 ---
 
-<p align="center"><sub>Desenvolvido por <a href="https://kelvinbiffi.com">Kelvin Biffi</a> · K3 Games Studio é uma marca da Yellowkode Studios e Soluções Digitais LTDA · contato@yellowkode.com</sub></p>
+<p align="center"><sub>Idealizado e desenvolvido por <a href="https://github.com/kelvinbiffi">Kelvin Biffi</a> · K3 Games Studio é uma marca da Yellowkode Studios e Soluções Digitais LTDA · contato@yellowkode.com</sub></p>
