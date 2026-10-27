@@ -44,8 +44,9 @@ O código é aberto: [K3-Games-Studio/k3-puzzles](https://github.com/K3-Games-St
     <td width="120" align="center"><a href="https://github.com/kelvinbiffi"><img src="https://github.com/kelvinbiffi.png?size=200" width="100" alt="Kelvin Biffi"></a></td>
     <td>
       <b><a href="https://github.com/kelvinbiffi">Kelvin Biffi</a></b>, idealizador do estúdio.<br>
-      O sonho dele sempre foi trabalhar com jogos. Hoje ele realiza esse sonho na K3: cada jogo daqui nasce da vontade de fazer pra outras pessoas o que os jogos sempre fizeram por ele.<br>
-      <sub><a href="https://github.com/kelvinbiffi">GitHub</a> · <a href="https://kelvinbiffi.com">kelvinbiffi.com</a></sub>
+      O sonho dele sempre foi trabalhar com jogos. Hoje ele realiza esse sonho na K3: cada jogo daqui nasce da vontade de fazer pra outras pessoas o que os jogos sempre fizeram por ele.<br><br>
+      Na primeira aula do curso de TI, o professor perguntou quem queria criar jogos. Só o Kelvin levantou a mão, e ouviu: <i>"tu tá no curso errado"</i>. Meses depois, outro professor desligou o PC dele no meio de um jogo: <i>"aqui só pode jogar o que tu mesmo criar"</i>. Ele respondeu escrevendo à mão um RPG inteiro, o Das Buch, com mais de 7 mil linhas. Hoje ele voltou com tudo, e dessa vez com um time de agentes de IA.<br>
+      <sub><a href="https://k3gamesstudio.com/historia/"><b>Leia a história completa →</b></a> · <a href="https://github.com/kelvinbiffi">GitHub</a> · <a href="https://kelvinbiffi.com">kelvinbiffi.com</a></sub>
     </td>
   </tr>
 </table>
